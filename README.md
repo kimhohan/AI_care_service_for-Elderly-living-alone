@@ -1,4 +1,4 @@
-AI_care_service_for-Elderly-living-alone
+AI_care_service_for-Elderly-living-alone (진행중)
 
 - 프로그램 구성도
 
